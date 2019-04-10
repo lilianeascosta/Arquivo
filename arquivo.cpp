@@ -13,7 +13,7 @@ int main(){
         exit(0);
     }
 
-    fprintf(arquivo, "Ola Mundo 123"); // primeiro coloca o nome do arquivo que será gravado
+    fprintf(arquivo, "Ola Mundo 666"); // primeiro coloca o nome do arquivo que será gravado
 
     fclose(arquivo); //fecha o arquivo
 
